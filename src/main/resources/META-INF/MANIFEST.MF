@@ -1,0 +1,1 @@
+MixinConnector: dev.hexeption.bungeeforge.MixinConnector
