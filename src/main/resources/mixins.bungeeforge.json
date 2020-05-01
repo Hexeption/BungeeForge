@@ -1,10 +1,9 @@
 {
   "required": true,
   "compatibilityLevel": "JAVA_8",
-  "package": "dev.hexeption.bungeeforge.mixins",
+  "package": "dev.hexeption.bungeeforge.mixin.mixins",
   "refmap": "mixins.darkforge.refmap.json",
   "mixins": [
-    "MixinMinecraft"
   ],
   "injectors": {
     "defaultRequire": 1

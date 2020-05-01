@@ -106,7 +106,7 @@ dependencies {
 }
 
 mixin {
-    add sourceSets.main, "mixins.generictestmod.json"
+    add sourceSets.main, "mixins.bootstrap.ref.json"
 }
 
 jar {
