@@ -4,6 +4,10 @@
   "package": "dev.hexeption.bungeeforge.mixin.mixins",
   "refmap": "mixins.darkforge.refmap.json",
   "mixins": [
+    "bungee.MixinCHandshakePacket",
+    "bungee.MixinServerHandshakeNetHandler",
+    "bungee.MixinServerLoginNetHandler",
+    "MixinNetworkManager"
   ],
   "injectors": {
     "defaultRequire": 1

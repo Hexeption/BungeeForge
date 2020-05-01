@@ -10,5 +10,7 @@ public interface ICHandshakePacket {
 
     String getAddress();
 
+    String getBaseIP();
+
     void setAddress(String address);
 }
